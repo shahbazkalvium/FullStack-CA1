@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ServiceCard = ({ title, description }) => {
+const ServiceCard = ({ title,description}) => {
   return (
     <div className="service-card">
       <h3>{title}</h3>
